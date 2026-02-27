@@ -4,7 +4,7 @@ Spell.ApplyFireDelay = 0.4
 Spell.Level = 1
 Spell.Ders = "Büyücülük"
 Spell.Description = [[
-	Ateşleri söndürmeye yarar.
+    Belirli bir konuma ışınlar.
 ]]
 
 Spell.AccuracyDecreaseVal = 0
